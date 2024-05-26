@@ -2,6 +2,7 @@
 
 A Java Swing application for managing different types of plants including flowers, fruits, and vegetables. Users can add new plants, view their details, and maintain watering schedules.
 
+
 ## Table of Contents
 
 - [Features](#features)
@@ -95,6 +96,8 @@ A Java Swing application for managing different types of plants including flower
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
+
+*This is a school project by Seval Kayikci.*
 
 Seval Kayikci - [sevalkayikci@gmail.com](mailto:sevalkayikci@gmail.com)
 
